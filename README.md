@@ -4,6 +4,7 @@
 
 1. HTML/CSSで簡単なWebページを作成する
 1. ワイヤフレームと完成スクショを提供する
+    1. hintsディレクトリ内のリソース
 1. 作成物は次の通り
     1. HTML = sample.html
     1. CSS = sample.css
